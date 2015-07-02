@@ -12,4 +12,4 @@ echo implode("\n", EntropyMotifMatrix(
 'TCGGGGATTcat',
 'TCGGGGATTcCt',
 'TaGGGGAacTaC',
-'TCGGGtATaaCC'
+'TCGGGtATaaCC'mm
